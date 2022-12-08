@@ -1,0 +1,15 @@
+/Users/imanyousfi/Desktop/montecarlo/montecarlo_test.py:23: SyntaxWarning: assertion is always true, perhaps remove parentheses?
+  assert (test2.faces_weight_df[test2.faces_weight_df['faces']==5]
+test_combo (__main__.MontecarloTestSuite) ... ok
+test_die (__main__.MontecarloTestSuite) ... ok
+test_face_counts_per_roll (__main__.MontecarloTestSuite) ... ok
+test_jackpot (__main__.MontecarloTestSuite) ... ok
+test_play (__main__.MontecarloTestSuite) ... ok
+test_roll (__main__.MontecarloTestSuite) ... ok
+test_show (__main__.MontecarloTestSuite) ... ok
+test_weight_change (__main__.MontecarloTestSuite) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.058s
+
+OK
