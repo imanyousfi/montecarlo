@@ -1,6 +1,6 @@
 # Monte Carlo Package: 
 ## Metadata:
-Specify your name and the project name (i.e. Monte Carlo Simulator).
+Iman Yousfi's Monte Carlo Simulator Project
 
 ## Synopsis:
 ### Installing:
