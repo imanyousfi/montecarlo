@@ -18,7 +18,7 @@ Copy https://github.com/imanyousfi/montecarlo.git, then `pip installe e.`
 - Start Game: `Test_Game = Game(Dice)`
 - Play Game: `Test_Game.play(10)`
 - Show Game: `Test_DF = Test_Game.show()` 
-- 
+
 ### Analyzing Games:
 - Start Analyzer: `Test_Analyzer = Analyzer(Test_Game)`
 - Face Counts per Roll: `Test_Analyzer.face_counts_per_roll()`
