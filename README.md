@@ -8,12 +8,11 @@ Copy https://github.com/imanyousfi/montecarlo.git, then `pip installe e.`
 ### Importing:
 `from montecarlo import Die, Game, Analyzer`
 ### Creating dice objects:
-` Dice_Object = [1,2,3,4,5,6]
-Dice = Die(Dice_Object)
-#Changing Wieghts: 
-Dice.weight_change(6,6)
-#Roll: 
-roll = Dice.roll(10) `
+- Dice Object: ` Dice_Object = [1,2,3,4,5,6] Dice = Die(Dice_Object)`
+- Changing Wieghts: 
+`Dice.weight_change(6,6)`
+- Roll: 
+`roll = Dice.roll(10) `
 
 ### Playing games:
 ### Analyzing games:
