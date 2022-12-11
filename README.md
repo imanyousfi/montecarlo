@@ -4,6 +4,7 @@ Iman Yousfi's Monte Carlo Simulator Project
 
 ## Synopsis:
 ### Installing:
+Copy https://github.com/imanyousfi/montecarlo.git, then `pip installe e.`
 ### Importing:
 ### Creating dice objects:
 ### Playing games:
